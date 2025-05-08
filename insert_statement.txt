@@ -1,0 +1,67 @@
+---------------------Appointments-----------------------------------
+INSERT INTO appointments (appointment_id, appointment_date, appointment_time, arrival_time, completed_time, clinic_id, doctor_id, patient_id) VALUES (511, '2024-01-01', '08:00:00', '08:00:00', '09:00:00', 2, 200, 1);
+INSERT INTO appointments (appointment_id, appointment_date, appointment_time, arrival_time, completed_time, clinic_id, doctor_id, patient_id) VALUES (512, '2024-01-01', '09:00:00', '09:30:00', '10:00:00', 3, 400, 2);
+INSERT INTO appointments (appointment_id, appointment_date, appointment_time, arrival_time, completed_time, clinic_id, doctor_id, patient_id) VALUES (513, '2024-01-01', '08:00:00', '08:00:00', '09:00:00', 2, 200, 4);
+INSERT INTO appointments (appointment_id, appointment_date, appointment_time, arrival_time, completed_time, clinic_id, doctor_id, patient_id) VALUES (514, '2024-01-02', '12:00:00', '12:15:00', '13:00:00', 1, 500, 9);
+INSERT INTO appointments (appointment_id, appointment_date, appointment_time, arrival_time, completed_time, clinic_id, doctor_id, patient_id) VALUES (515, '2024-01-03', '09:00:00', '09:30:00', '10:30:00', 1, 100, 1);
+INSERT INTO appointments (appointment_id, appointment_date, appointment_time, arrival_time, completed_time, clinic_id, doctor_id, patient_id) VALUES (516, '2024-01-05', '10:30:00', '11:00:00', '12:00:00', 2, 200, 10);
+INSERT INTO appointments (appointment_id, appointment_date, appointment_time, arrival_time, completed_time, clinic_id, doctor_id, patient_id) VALUES (517, '2024-01-08', '11:00:00', '11:30:00', '12:30:00', 3, 300, 9);
+INSERT INTO appointments (appointment_id, appointment_date, appointment_time, arrival_time, completed_time, clinic_id, doctor_id, patient_id) VALUES (518, '2024-01-10', '13:00:00', '13:30:00', '14:30:00', 9, 400, 8);
+INSERT INTO appointments (appointment_id, appointment_date, appointment_time, arrival_time, completed_time, clinic_id, doctor_id, patient_id) VALUES (519, '2024-01-12', '14:30:00', '15:00:00', '16:00:00', 5, 500, 7);
+INSERT INTO appointments (appointment_id, appointment_date, appointment_time, arrival_time, completed_time, clinic_id, doctor_id, patient_id) VALUES (520, '2024-01-15', '15:00:00', '15:30:00', '16:30:00', 4, 600, 9);
+INSERT INTO appointments (appointment_id, appointment_date, appointment_time, arrival_time, completed_time, clinic_id, doctor_id, patient_id) VALUES (521, '2024-01-17', '10:00:00', '10:30:00', '11:30:00', 1, 200, 8);
+INSERT INTO appointments (appointment_id, appointment_date, appointment_time, arrival_time, completed_time, clinic_id, doctor_id, patient_id) VALUES (522, '2024-01-20', '11:30:00', '12:00:00', '13:00:00', 2, 300, 3);
+INSERT INTO appointments (appointment_id, appointment_date, appointment_time, arrival_time, completed_time, clinic_id, doctor_id, patient_id) VALUES (523, '2024-01-22', '13:30:00', '14:00:00', '15:00:00', 8, 900, 4);
+INSERT INTO appointments (appointment_id, appointment_date, appointment_time, arrival_time, completed_time, clinic_id, doctor_id, patient_id) VALUES (524, '2024-01-25', '16:00:00', '16:00:00', '17:00:00', 5, 500, 5);
+INSERT INTO appointments (appointment_id, appointment_date, appointment_time, arrival_time, completed_time, clinic_id, doctor_id, patient_id) VALUES (525, '2024-01-27', '09:30:00', '10:00:00', '11:00:00', 1, 800, 3);
+INSERT INTO appointments (appointment_id, appointment_date, appointment_time, arrival_time, completed_time, clinic_id, doctor_id, patient_id) VALUES (526, '2024-01-29', '10:00:00', '10:30:00', '11:30:00', 2, 200, 2);
+INSERT INTO appointments (appointment_id, appointment_date, appointment_time, arrival_time, completed_time, clinic_id, doctor_id, patient_id) VALUES (527, '2024-01-31', '13:00:00', '13:30:00', '14:30:00', 3, 700, 3);
+INSERT INTO appointments (appointment_id, appointment_date, appointment_time, arrival_time, completed_time, clinic_id, doctor_id, patient_id) VALUES (528, '2024-01-31', '13:00:00', '13:30:00', '14:30:00', 7, 300, 3);
+INSERT INTO appointments (appointment_id, appointment_date, appointment_time, arrival_time, completed_time, clinic_id, doctor_id, patient_id) VALUES (529, '2024-01-28', '14:30:00', '15:00:00', '16:00:00', 4, 400, 4);
+INSERT INTO appointments (appointment_id, appointment_date, appointment_time, arrival_time, completed_time, clinic_id, doctor_id, patient_id) VALUES (530, '2024-01-24', '15:00:00', '15:30:00', '16:30:00', 5, 500, 5);
+INSERT INTO appointments (appointment_id, appointment_date, appointment_time, arrival_time, completed_time, clinic_id, doctor_id, patient_id) VALUES (531, '2024-01-23', '10:00:00', '10:30:00', '11:00:00', 4, 600, 1);
+INSERT INTO appointments (appointment_id, appointment_date, appointment_time, arrival_time, completed_time, clinic_id, doctor_id, patient_id) VALUES (532, '2024-01-21', '00:11:00', '11:00:00', '12:00:00', 1, 200, 7);
+INSERT INTO appointments (appointment_id, appointment_date, appointment_time, arrival_time, completed_time, clinic_id, doctor_id, patient_id) VALUES (533, '2024-01-19', '00:13:00', '13:00:00', '14:00:00', 2, 300, 2);
+INSERT INTO appointments (appointment_id, appointment_date, appointment_time, arrival_time, completed_time, clinic_id, doctor_id, patient_id) VALUES (534, '2024-01-18', '14:00:00', '14:00:00', '15:00:00', 3, 400, 4);
+INSERT INTO appointments (appointment_id, appointment_date, appointment_time, arrival_time, completed_time, clinic_id, doctor_id, patient_id) VALUES (535, '2024-01-16', '16:00:00', '16:00:00', '17:00:00', 4, 500, 5);
+INSERT INTO appointments (appointment_id, appointment_date, appointment_time, arrival_time, completed_time, clinic_id, doctor_id, patient_id) VALUES (536, '2024-01-14', '09:00:00', '09:00:00', '10:00:00', 10, 600, 1);
+INSERT INTO appointments (appointment_id, appointment_date, appointment_time, arrival_time, completed_time, clinic_id, doctor_id, patient_id) VALUES (537, '2024-01-13', '00:10:30', '11:00:00', '12:00:00', 4, 100, 2);
+INSERT INTO appointments (appointment_id, appointment_date, appointment_time, arrival_time, completed_time, clinic_id, doctor_id, patient_id) VALUES (538, '2024-01-11', '00:12:30', '13:00:00', '14:00:00', 1, 1000, 3);
+INSERT INTO appointments (appointment_id, appointment_date, appointment_time, arrival_time, completed_time, clinic_id, doctor_id, patient_id) VALUES (539, '2024-01-09', '00:14:30', '15:00:00', '16:00:00', 2, 300, 4);
+INSERT INTO appointments (appointment_id, appointment_date, appointment_time, arrival_time, completed_time, clinic_id, doctor_id, patient_id) VALUES (540, '2024-01-07', '00:16:30', '17:00:00', '18:00:00', 3, 400, 5);
+------------------------------------------Clinics------------------------------------------
+INSERT INTO clinics (clinic_id, clinic_name) VALUES (1, 'Dental Care');
+INSERT INTO clinics (clinic_id, clinic_name) VALUES (2, 'Dermatology care');
+INSERT INTO clinics (clinic_id, clinic_name) VALUES (3, 'Women health and care');
+INSERT INTO clinics (clinic_id, clinic_name) VALUES (4, 'Mental health centre');
+INSERT INTO clinics (clinic_id, clinic_name) VALUES (5, 'Orthopedic solutions');
+INSERT INTO clinics (clinic_id, clinic_name) VALUES (6, 'Rehabilitation');
+INSERT INTO clinics (clinic_id, clinic_name) VALUES (7, 'Gastroenterology');
+INSERT INTO clinics (clinic_id, clinic_name) VALUES (8, 'Pediatric Wellness');
+INSERT INTO clinics (clinic_id, clinic_name) VALUES (9, 'Eye centre');
+INSERT INTO clinics (clinic_id, clinic_name) VALUES (10, 'Hair care solutions');
+---------------------------------------doctors--------------------------------------------
+INSERT INTO doctors (doctor_id, first_name, last_name) VALUES (100, 'Steven', 'King');
+INSERT INTO doctors (doctor_id, first_name, last_name) VALUES (200, 'Simon', 'Pol');
+INSERT INTO doctors (doctor_id, first_name, last_name) VALUES (300, 'Neel', 'Singh');
+INSERT INTO doctors (doctor_id, first_name, last_name) VALUES (400, 'Chris', 'Kem');
+INSERT INTO doctors (doctor_id, first_name, last_name) VALUES (500, 'Robert', 'Hens');
+INSERT INTO doctors (doctor_id, first_name, last_name) VALUES (600, 'Kian', 'Oman');
+INSERT INTO doctors (doctor_id, first_name, last_name) VALUES (700, 'Serro', 'Lee');
+INSERT INTO doctors (doctor_id, first_name, last_name) VALUES (800, 'Brandon', 'SEE');
+INSERT INTO doctors (doctor_id, first_name, last_name) VALUES (900, 'Mick', 'Seelon');
+INSERT INTO doctors (doctor_id, first_name, last_name) VALUES (1000, 'Nick', 'Perry');
+------------------------------------funds----------------------------------------------
+INSERT INTO financial_data (fd_id, amount) VALUES (11, 2000);
+INSERT INTO financial_data (fd_id, amount) VALUES (22, 6000);
+-----------------------------------Patients--------------------------------------------
+INSERT INTO patients (patient_id, patient_first_name, patient_last_name, phone_number, gender) VALUES (1, 'Mack', 'Heero', '413-561-335', 'MALE');
+INSERT INTO patients (patient_id, patient_first_name, patient_last_name, phone_number, gender) VALUES (2, 'Sirro', 'Obama', '413-522-485', 'FEMALE');
+INSERT INTO patients (patient_id, patient_first_name, patient_last_name, phone_number, gender) VALUES (3, 'Makky', 'Hill', '413-961-335', 'FEMALE');
+INSERT INTO patients (patient_id, patient_first_name, patient_last_name, phone_number, gender) VALUES (4, 'Slzzaro', 'Amat', '413-529-485', 'FEMALE');
+INSERT INTO patients (patient_id, patient_first_name, patient_last_name, phone_number, gender) VALUES (5, 'Marria', 'Heo', '413-561-375', 'FEMALE');
+INSERT INTO patients (patient_id, patient_first_name, patient_last_name, phone_number, gender) VALUES (6, 'Lavi', 'Boraco', '413-782-485', 'MALE');
+INSERT INTO patients (patient_id, patient_first_name, patient_last_name, phone_number, gender) VALUES (7, 'Catty', 'Zoeo', '413-597-335', 'FEMALE');
+INSERT INTO patients (patient_id, patient_first_name, patient_last_name, phone_number, gender) VALUES (8, 'Helly', 'Omni', '413-522-265', 'FEMALE');
+INSERT INTO patients (patient_id, patient_first_name, patient_last_name, phone_number, gender) VALUES (9, 'Dan', 'Hesto', '413-561-115', 'MALE');
+INSERT INTO patients (patient_id, patient_first_name, patient_last_name, phone_number, gender) VALUES (10, 'Vank', 'Ollo', '413-329-485', 'MALE');
